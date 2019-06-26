@@ -1,6 +1,6 @@
 package de.cofinpro.sweng.schreibenapp.main;
 
-import de.cofinpro.sweng.schreibenpp.controller.SchreibenController;
+import de.cofinpro.sweng.schreibenapp.controller.SchreibenController;
 
 /**
  * Die Client-Klasse, die die Erzeugung der Schreiben steuert.

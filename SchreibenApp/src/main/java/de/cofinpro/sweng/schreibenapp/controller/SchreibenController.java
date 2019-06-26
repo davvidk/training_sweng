@@ -1,4 +1,4 @@
-package de.cofinpro.sweng.schreibenpp.controller;
+package de.cofinpro.sweng.schreibenapp.controller;
 
 import de.cofinpro.sweng.schreibenapp.kernbanksystem.KernbankService;
 import de.cofinpro.sweng.schreibenapp.kernbanksystem.ServiceRepository;

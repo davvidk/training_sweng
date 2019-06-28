@@ -17,19 +17,19 @@
         <dependency>
             <groupId>de.confinpro.sweng.schreibenapp</groupId>
             <artifactId>domain</artifactId>
-            <version>1.0-SNAPSHOT</version>
+            <version>1.0.0-SNAPSHOT</version>
             <scope>compile</scope>
         </dependency>
         <dependency>
             <groupId>de.confinpro.sweng.schreibenapp</groupId>
             <artifactId>kernbanksystem</artifactId>
-            <version>1.0-SNAPSHOT</version>
+            <version>1.0.0-SNAPSHOT</version>
             <scope>compile</scope>
         </dependency>
         <dependency>
             <groupId>de.confinpro.sweng.schreibenapp</groupId>
             <artifactId>schreibenRepository</artifactId>
-            <version>1.0-SNAPSHOT</version>
+            <version>1.0.0-SNAPSHOT</version>
         </dependency>
     </dependencies>
 
